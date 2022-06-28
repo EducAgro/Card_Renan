@@ -19,3 +19,12 @@ img {
   transform: translateY(-50%);
   border: 8px solid white;
 }
+a{ 
+    text-decoration: none;
+    font-size: 30px;
+    color:black
+}
+
+a:hover{
+    color:aquamarine
+}
